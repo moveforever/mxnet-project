@@ -1,13 +1,15 @@
 
 
-### Implenmentaion about  dl and ml
+# Implenmentaion about  dl and ml
 
 
 
 Model
 ---------------
+Factorization Machine
 
 
 
 Optimization
 ---------------
+Ftrl
